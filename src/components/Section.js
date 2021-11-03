@@ -85,7 +85,7 @@ margin-top:20px;
 height: 40px;
 animation:animateDown infinite 1.5s;
 overflow-x:hidden;
-color:white;
+
 
 `
 const Buttons = styled.div`

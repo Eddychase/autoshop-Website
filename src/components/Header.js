@@ -19,7 +19,7 @@ function Header() {
             </Menu>
             <RightMenu>
                 <a href="#">Shop</a>
-                <a href="#">Autoshop Account</a>
+                <a href="#">Account</a>
                 <CustomMenu onClick={() => setBurgerStatus(true)} />
             </RightMenu>
             <BurgerNav show={burgerStatus}>
@@ -42,7 +42,7 @@ export default Header
 
 const Container = styled.div`
 min-height:60px;
-background:black;
+background:	black;
 display:flex;
 position:fixed;
 align-items:center;
