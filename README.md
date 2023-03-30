@@ -2,7 +2,6 @@
 
 This project is a website for an auto repair shop, built using React and styled using Bootstrap. It features a home page with a slideshow of images, a services page with information about the services offered by the shop, and a contact page with a form for users to submit inquiries.
 
-![Autoshop Website Screenshot](https://i.imgur.com/qxUuV7M.png)
 
 ## Features
 
