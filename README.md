@@ -25,7 +25,7 @@ To get started with the project, follow these steps:
 
 ## Authors
 
-- Eddy Chase
+- Edwin Kanyotu
 
 ## License
 
